@@ -1,0 +1,2 @@
+download the data cant upload as it takes a lot of space
+https://www.kaggle.com/competitions/fake-news/data
