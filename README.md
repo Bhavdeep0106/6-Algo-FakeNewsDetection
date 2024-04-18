@@ -1,2 +1,16 @@
-# Comparative-Analysis-of-Algorithms-for-identifying-false-news
-False news is a problem that has grown significantly in the current digital era. Consequently, with the widespread use of social media for content dissemination, it is common to discover false and altered material that is disseminated there. A major negative effect on people and society could result from the widespread dissemination of erroneous information. It is preferable to analyze the social reactions to a piece in addition to its literary elements when determining if it is real or fake. For a particular dataset, the literacy algorithms are trained with a variety of hyperparameters to reach the highest level of delicacy. The spread of false information has led to a growing need for accurate and efficient methods to detect it. This study used machine learning algorithms to estimate how accurate fake news would be. The algorithms were trained and tested using a dataset of diverse news stories that had been classified as fake or genuine. Different machine learning models' efficacy was evaluated, including Random Forest, Support Vector Machine, and Naive Bayes and more. By detecting and filtering out fake news, the credibility of news sources can be maintained, the spread of misinformation can be prevented, harmful consequences can be avoided, healthy discourse can be promoted, and democracy can be protected.
+# False News Detection: A Comparative Analysis of Six Algorithmic Approaches
+
+## Introduction
+False news proliferates in the digital age, particularly via social media, posing significant societal risks. Analyzing both literary and social cues aids in discerning truth from falsehood. Leveraging machine learning, this study evaluates various algorithms' effectiveness in detecting fake news using a diverse dataset. Models, including Random Forest, SVM, and Naive Bayes, were assessed. Detecting and filtering fake news upholds news source credibility, prevents misinformation spread, fosters healthy discourse, and safeguards democracy.
+
+## Objective
+The primary objective of this project is to develop an effective system for accurately detecting fake news. To achieve this goal, the study delves into various textual properties that serve as distinguishing factors between fabricated and authentic content. By leveraging these properties, a combination of diverse machine learning algorithms is trained, with the aim of discerning patterns and characteristics unique to fake news articles. Subsequently, the performance of these algorithms is meticulously evaluated using a real-world dataset, providing valuable insights into their effectiveness in discriminating between genuine and false information. Through this comprehensive approach, the project seeks to contribute to the advancement of techniques for combatting the spread of misinformation in today's digital landscape.
+
+## Repository Structure
+- `data/`: Contains the dataset used for training and testing.
+- `code/`: Includes scripts for data preprocessing, model training, and evaluation.
+- `results/`: Stores the results obtained from different algorithms.
+- `README.md`: The main README file providing an overview of the project.
+
+## Usage
+1. Clone the repository: `git clone https://github.com/Bhavdeep0106/6-Algo-FakeNewsDetection.git`
