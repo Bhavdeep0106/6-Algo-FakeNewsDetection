@@ -1,0 +1,24 @@
+there are multiple sections in this project
+1.Checking values with null values
+2.Missing data imputation
+3.Merging the columns (title, author, text) into one column
+4.Cleaning and preprocessing
+4.1 Regex
+4.2 Tokenization
+4.3 Stopwords removal
+4.4  Lemmatization 
+5.Applying text Preprocessing techniques discussed above on train data
+6.Count Vectorizer Demo
+7.Applying NPL technique
+8.Building a model using CountVectorizer and TF-IDF vectorizer
+9.Applying Extraction using count vectorization and  tfidf vectorization
+
+10. Logistic Regression
+11. Multinomial NB
+12. Decission Tree
+13. Random Forest Classifier
+14. KNN
+15. SVM-Linear Kernel
+
+
+Code compares 6 various ML algorithms on the datasets train and test
